@@ -1,0 +1,4 @@
+alipay 手机APP回调文件
+alipay_old 以前WAP支付宝文件
+wxpay 微信自动注册登录文件
+wxpayv3 微信JSAPI支付文件

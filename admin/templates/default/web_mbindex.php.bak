@@ -1,0 +1,685 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>sfaasdf</title>
+<style>
+.home-focus-layout,.public-nav-layout,.header-wrap,.public-top-layout,.fuwu,.faq,.footer,.back2top,.public-nav-layout{ display:none}
+#faq,#footer,.fullimg{ display:none}
+</style>
+</head>
+<body>
+<?php if($_GET["web_id"]==1){?>
+<table width="956" height="6451" border="0" align="center" cellpadding="0" cellspacing="0" id="__01">
+	<tr>
+		<td colspan="5">
+			 <a href="JavaScript:show_webdialog(1,'295X200');"  >
+             <img  id="picture_1" title="<?php echo $output['web_goodslist'][1]['title']?>"  url='<?php echo $output['web_goodslist'][1]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][1]['litpic']?>"  width="473" height="194" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" ></a>             </td>
+		<td colspan="3">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_02.jpg" width="9" height="194" alt=""></td>
+		<td colspan="5">
+		
+			
+			
+			 <a href="JavaScript:show_webdialog(2,'200X300');"  >
+             <img  id="picture_2" title="<?php echo $output['web_goodslist'][2]['title']?>"  url='<?php echo $output['web_goodslist'][2]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][2]['litpic']?>"  width="473" height="194" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" ></a>			</td>
+		<td>
+			<img   src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="194" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="13">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_04.jpg" width="955" height="75" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="75" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="5" rowspan="3">
+			
+			<a href="JavaScript:show_webdialog(3,'595X500');"  >
+             <img  id="picture_3" title="<?php echo $output['web_goodslist'][3]['title']?>"  url='<?php echo $output['web_goodslist'][3]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][3]['litpic']?>"  width="473" height="458" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" ></a>	  </td>
+		<td colspan="3" rowspan="5">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_06.jpg" width="9" height="690" alt=""></td>
+		<td>
+			
+			<a href="JavaScript:show_webdialog(4,'290X250');"  >
+             <img  id="picture_4" title="<?php echo $output['web_goodslist'][4]['title']?>"  url='<?php echo $output['web_goodslist'][4]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][4]['litpic']?>"  width="232" height="225" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" ></a>	  </td>
+		<td colspan="2" rowspan="4">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_08.jpg" width="8" height="465" alt=""></td>
+		<td colspan="2">
+		<a href="JavaScript:show_webdialog(5,'290X250');"  >
+             <img  id="picture_5" title="<?php echo $output['web_goodslist'][5]['title']?>"  url='<?php echo $output['web_goodslist'][5]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][5]['litpic']?>"  width="233" height="225" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" ></a></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="225" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_10.jpg" width="232" height="8" alt=""></td>
+		<td colspan="2">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_11.jpg" width="233" height="8" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="8" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			
+			<a href="JavaScript:show_webdialog(6,'290X250');"  >
+             <img  id="picture_6" title="<?php echo $output['web_goodslist'][6]['title']?>"  url='<?php echo $output['web_goodslist'][6]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][6]['litpic']?>"  width="232" height="225" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" ></a>			</td>
+		<td colspan="2">
+			
+			<a href="JavaScript:show_webdialog(7,'290X250');"  >
+             <img  id="picture_7" title="<?php echo $output['web_goodslist'][7]['title']?>"  url='<?php echo $output['web_goodslist'][7]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][7]['litpic']?>"  width="233" height="225" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" ></a>			</td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="225" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="5">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_14.jpg" width="473" height="7" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_15.jpg" width="232" height="7" alt=""></td>
+		<td colspan="2">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_16.jpg" width="233" height="7" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="7" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="5">
+			
+			<a href="JavaScript:show_webdialog(8,'595X250');"  >
+             <img  id="picture_8" title="<?php echo $output['web_goodslist'][8]['title']?>"  url='<?php echo $output['web_goodslist'][8]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][8]['litpic']?>"  width="473" height="225" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" ></a>			</td>
+		<td colspan="5">
+			
+			<a href="JavaScript:show_webdialog(9,'595X250');"  >
+             <img  id="picture_9" title="<?php echo $output['web_goodslist'][9]['title']?>"  url='<?php echo $output['web_goodslist'][9]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][9]['litpic']?>"  width="473" height="225" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" ></a>			</td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="225" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="13">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_19.jpg" width="955" height="79" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="79" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="13">
+			
+			<a href="JavaScript:show_webdialog(10,'1920X450');"  >
+             <img  id="picture_10" title="<?php echo $output['web_goodslist'][10]['title']?>"  url='<?php echo $output['web_goodslist'][10]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][10]['litpic']?>"  width="955" height="394" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" ></a>			</td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="394" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="13">
+			
+			<a href="JavaScript:show_webdialog(11,'1200X100');"  >
+             <img  id="picture_11" title="<?php echo $output['web_goodslist'][11]['title']?>"  url='<?php echo $output['web_goodslist'][11]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][11]['litpic']?>"  width="955" height="90" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" ></a>			 </td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="90" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="13">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_22.jpg" width="955" height="54" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="54" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="13">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_23.jpg" width="955" height="2" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="2" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="3">
+			
+			<a href="JavaScript:show_webdialog(12,'295X500');"  >
+             <img  id="picture_12" title="<?php echo $output['web_goodslist'][12]['title']?>"  url='<?php echo $output['web_goodslist'][12]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][12]['litpic']?>"  width="233" height="457" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" ></a>			</td>
+		<td colspan="3" rowspan="3">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_25.jpg" width="9" height="457" alt=""></td>
+		<td rowspan="3"><a href="JavaScript:show_webdialog(13,'295X500');"  ><img  id="picture_13" title="<?php echo $output['web_goodslist'][13]['title']?>"  url='<?php echo $output['web_goodslist'][13]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][13]['litpic']?>"  width="231" height="457" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a></td>
+		<td colspan="2" rowspan="3">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_27.jpg" width="8" height="457" alt=""></td>
+		<td colspan="2">
+			
+			<a href="JavaScript:show_webdialog(14,'290X240');"  ><img  id="picture_14" title="<?php echo $output['web_goodslist'][14]['title']?>"  url='<?php echo $output['web_goodslist'][14]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][14]['litpic']?>"  width="233" height="225" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td colspan="2" rowspan="3">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_29.jpg" width="8" height="457" alt=""></td>
+		<td colspan="2">
+		
+			<a href="JavaScript:show_webdialog(15,'290X240');"  ><img  id="picture_15" title="<?php echo $output['web_goodslist'][15]['title']?>"  url='<?php echo $output['web_goodslist'][15]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][15]['litpic']?>"  width="233" height="225" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="225" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_31.jpg" width="233" height="8" alt=""></td>
+		<td colspan="2">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_32.jpg" width="233" height="8" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="8" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			
+			<a href="JavaScript:show_webdialog(16,'290X240');"  ><img  id="picture_16" title="<?php echo $output['web_goodslist'][16]['title']?>"  url='<?php echo $output['web_goodslist'][16]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][16]['litpic']?>"  width="233" height="224" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td colspan="2">
+			
+			<a href="JavaScript:show_webdialog(17,'290X240');"  ><img  id="picture_17" title="<?php echo $output['web_goodslist'][17]['title']?>"  url='<?php echo $output['web_goodslist'][17]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][17]['litpic']?>"  width="233" height="224" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="224" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="13">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_35.jpg" width="955" height="58" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="58" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			
+			<a href="JavaScript:show_webdialog(18,'290X240');"  ><img  id="picture_18" title="<?php echo $output['web_goodslist'][18]['title']?>"  url='<?php echo $output['web_goodslist'][18]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][18]['litpic']?>"  width="233" height="225" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td colspan="6">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_37.jpg" width="248" height="1" alt=""></td>
+		<td colspan="6" rowspan="3">
+		
+			<a href="JavaScript:show_webdialog(22,'600X240');"  ><img  id="picture_22" title="<?php echo $output['web_goodslist'][22]['title']?>"  url='<?php echo $output['web_goodslist'][22]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][22]['litpic']?>"  width="474" height="226" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="1" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="3">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_39.jpg" width="7" height="232" alt=""></td>
+		<td colspan="4" rowspan="2">
+			
+			<a href="JavaScript:show_webdialog(19,'290X240');"  ><img  id="picture_19" title="<?php echo $output['web_goodslist'][19]['title']?>"  url='<?php echo $output['web_goodslist'][19]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][19]['litpic']?>"  width="234" height="225" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td rowspan="4">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_41.jpg" width="7" height="457" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="224" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_42.jpg" width="233" height="8" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="1" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="4">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_43.jpg" width="234" height="7" alt=""></td>
+		<td colspan="6">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_44.jpg" width="474" height="7" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="7" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			
+			<a href="JavaScript:show_webdialog(20,'290X240');"  ><img  id="picture_20" title="<?php echo $output['web_goodslist'][20]['title']?>"  url='<?php echo $output['web_goodslist'][20]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][20]['litpic']?>"  width="240" height="225" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td colspan="4">
+			
+			<a href="JavaScript:show_webdialog(21,'290X240');"  ><img  id="picture_21" title="<?php echo $output['web_goodslist'][21]['title']?>"  url='<?php echo $output['web_goodslist'][21]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][21]['litpic']?>"  width="234" height="225" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td colspan="6">
+			
+			<a href="JavaScript:show_webdialog(23,'600X240');"  ><img  id="picture_23" title="<?php echo $output['web_goodslist'][23]['title']?>"  url='<?php echo $output['web_goodslist'][23]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][23]['litpic']?>"  width="474" height="225" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="225" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="13">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_48.jpg" width="955" height="78" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="78" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="13">
+	
+			<a href="JavaScript:show_webdialog(24,'1920X450');"  ><img  id="picture_24" title="<?php echo $output['web_goodslist'][24]['title']?>"  url='<?php echo $output['web_goodslist'][24]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][24]['litpic']?>"  width="955" height="398" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="398" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="13">
+			
+			<a href="JavaScript:show_webdialog(25,'1200X100');"  ><img  id="picture_25" title="<?php echo $output['web_goodslist'][25]['title']?>"  url='<?php echo $output['web_goodslist'][25]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][25]['litpic']?>"  width="955" height="88" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="88" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="13">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_51.jpg" width="955" height="56" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="56" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="6">
+			
+			<a href="JavaScript:show_webdialog(26,'595X200');"  ><img  id="picture_26" title="<?php echo $output['web_goodslist'][26]['title']?>"  url='<?php echo $output['web_goodslist'][26]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][26]['litpic']?>"  width="474" height="224" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td rowspan="5">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_53.jpg" width="7" height="688" alt=""></td>
+		<td colspan="6">
+			
+			<a href="JavaScript:show_webdialog(27,'595X200');"  ><img  id="picture_27" title="<?php echo $output['web_goodslist'][27]['title']?>"  url='<?php echo $output['web_goodslist'][27]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][27]['litpic']?>"  width="474" height="224" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="224" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="6">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_55.jpg" width="474" height="8" alt=""></td>
+		<td colspan="6">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_56.jpg" width="474" height="8" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="8" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			
+			<a href="JavaScript:show_webdialog(28,'295X300');"  ><img  id="picture_28" title="<?php echo $output['web_goodslist'][28]['title']?>"  url='<?php echo $output['web_goodslist'][28]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][28]['litpic']?>"  width="233" height="224" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td colspan="3" rowspan="3">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_58.jpg" width="9" height="456" alt=""></td>
+		<td colspan="2">
+			
+			<a href="JavaScript:show_webdialog(29,'295X300');"  ><img  id="picture_29" title="<?php echo $output['web_goodslist'][29]['title']?>"  url='<?php echo $output['web_goodslist'][29]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][29]['litpic']?>"  width="232" height="224" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td colspan="2">
+			
+			<a href="JavaScript:show_webdialog(30,'295X300');"  ><img  id="picture_30" title="<?php echo $output['web_goodslist'][30]['title']?>"  url='<?php echo $output['web_goodslist'][30]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][30]['litpic']?>"  width="233" height="224" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td colspan="2" rowspan="3">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_61.jpg" width="8" height="456" alt=""></td>
+		<td colspan="2">
+			
+			<a href="JavaScript:show_webdialog(31,'295X300');"  ><img  id="picture_31" title="<?php echo $output['web_goodslist'][31]['title']?>"  url='<?php echo $output['web_goodslist'][31]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][31]['litpic']?>"  width="233" height="224" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="224" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_63.jpg" width="233" height="8" alt=""></td>
+		<td colspan="2">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_64.jpg" width="232" height="8" alt=""></td>
+		<td colspan="2">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_65.jpg" width="233" height="8" alt=""></td>
+		<td colspan="2">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_66.jpg" width="233" height="8" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="8" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+
+			<a href="JavaScript:show_webdialog(32,'295X300');"  ><img  id="picture_32" title="<?php echo $output['web_goodslist'][32]['title']?>"  url='<?php echo $output['web_goodslist'][32]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][32]['litpic']?>"  width="233" height="224" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td colspan="2">
+		
+			<a href="JavaScript:show_webdialog(33,'295X300');"  ><img  id="picture_33" title="<?php echo $output['web_goodslist'][33]['title']?>"  url='<?php echo $output['web_goodslist'][33]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][33]['litpic']?>"  width="232" height="224" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td colspan="2">
+			
+			<a href="JavaScript:show_webdialog(34,'295X300');"  ><img  id="picture_34" title="<?php echo $output['web_goodslist'][34]['title']?>"  url='<?php echo $output['web_goodslist'][34]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][34]['litpic']?>"  width="233" height="224" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td colspan="2">
+			
+			<a href="JavaScript:show_webdialog(35,'295X300');"  ><img  id="picture_35" title="<?php echo $output['web_goodslist'][35]['title']?>"  url='<?php echo $output['web_goodslist'][35]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][35]['litpic']?>"  width="233" height="224" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="224" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="13">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_71.jpg" width="955" height="76" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="76" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="13">
+		
+			<a href="JavaScript:show_webdialog(36,'1920X450');"  ><img  id="picture_36" title="<?php echo $output['web_goodslist'][36]['title']?>"  url='<?php echo $output['web_goodslist'][36]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][36]['litpic']?>"  width="955" height="394" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="394" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="13">
+
+			<a href="JavaScript:show_webdialog(37,'1200X100');"  ><img  id="picture_37" title="<?php echo $output['web_goodslist'][37]['title']?>"  url='<?php echo $output['web_goodslist'][37]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][37]['litpic']?>"  width="955" height="88" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="88" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="13">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_74.jpg" width="955" height="58" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="58" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="3">
+			
+			<a href="JavaScript:show_webdialog(38,'290X470');"  ><img  id="picture_38" title="<?php echo $output['web_goodslist'][38]['title']?>"  url='<?php echo $output['web_goodslist'][38]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][38]['litpic']?>"  width="233" height="455" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td colspan="2" rowspan="5">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_76.jpg" width="8" height="688" alt=""></td>
+		<td colspan="2">
+			
+			<a href="JavaScript:show_webdialog(39,'290X220');"  ><img  id="picture_39" title="<?php echo $output['web_goodslist'][39]['title']?>"  url='<?php echo $output['web_goodslist'][39]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][39]['litpic']?>"  width="232" height="224" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td colspan="2" rowspan="2">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_78.jpg" width="8" height="231" alt=""></td>
+		<td colspan="2">
+			
+			<a href="JavaScript:show_webdialog(43,'295X220');"  ><img  id="picture_43" title="<?php echo $output['web_goodslist'][43]['title']?>"  url='<?php echo $output['web_goodslist'][43]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][43]['litpic']?>"  width="233" height="224" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td rowspan="2">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_80.jpg" width="7" height="231" alt=""></td>
+		<td colspan="2">
+			
+			<a href="JavaScript:show_webdialog(44,'295X220');"  ><img  id="picture_44" title="<?php echo $output['web_goodslist'][44]['title']?>"  url='<?php echo $output['web_goodslist'][44]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][44]['litpic']?>"  width="233" height="224" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td rowspan="2">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_82.jpg" width="1" height="231" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="224" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_83.jpg" width="232" height="7" alt=""></td>
+		<td colspan="2">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_84.jpg" width="233" height="7" alt=""></td>
+		<td colspan="2">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_85.jpg" width="233" height="7" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="7" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="3">
+			
+			<a href="JavaScript:show_webdialog(40,'290X220');"  ><img  id="picture_40" title="<?php echo $output['web_goodslist'][40]['title']?>"  url='<?php echo $output['web_goodslist'][40]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][40]['litpic']?>"  width="233" height="224" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td rowspan="3">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_87.jpg" width="7" height="457" alt=""></td>
+		<td colspan="6">
+			
+			<a href="JavaScript:show_webdialog(45,'600X220');"  ><img  id="picture_45" title="<?php echo $output['web_goodslist'][45]['title']?>"  url='<?php echo $output['web_goodslist'][45]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][45]['litpic']?>"  width="474" height="224" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="224" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_89.jpg" width="233" height="8" alt=""></td>
+		<td colspan="3">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_90.jpg" width="233" height="8" alt=""></td>
+		<td colspan="6">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_91.jpg" width="474" height="8" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="8" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			
+			<a href="JavaScript:show_webdialog(41,'290X220');"  ><img  id="picture_41" title="<?php echo $output['web_goodslist'][41]['title']?>"  url='<?php echo $output['web_goodslist'][41]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][41]['litpic']?>"  width="233" height="225" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td colspan="3">
+			
+			<a href="JavaScript:show_webdialog(42,'290X220');"  ><img  id="picture_42" title="<?php echo $output['web_goodslist'][42]['title']?>"  url='<?php echo $output['web_goodslist'][42]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][42]['litpic']?>"  width="233" height="225" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td colspan="6">
+			
+			<a href="JavaScript:show_webdialog(46,'600X220');"  ><img  id="picture_46" title="<?php echo $output['web_goodslist'][46]['title']?>"  url='<?php echo $output['web_goodslist'][46]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][46]['litpic']?>"  width="474" height="225" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="225" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="13">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_95.jpg" width="955" height="77" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="77" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="13">
+			<a href="JavaScript:show_webdialog(47,'1920X450');"  ><img  id="picture_47" title="<?php echo $output['web_goodslist'][47]['title']?>"  url='<?php echo $output['web_goodslist'][47]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][47]['litpic']?>"  width="955" height="395" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="395" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="13">
+		
+			<a href="JavaScript:show_webdialog(48,'1200X100');"  ><img  id="picture_48" title="<?php echo $output['web_goodslist'][48]['title']?>"  url='<?php echo $output['web_goodslist'][48]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][48]['litpic']?>"  width="955" height="87" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="87" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="13">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_98.jpg" width="955" height="56" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="56" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="3">
+			
+			<a href="JavaScript:show_webdialog(49,'290X470');"  ><img  id="picture_49" title="<?php echo $output['web_goodslist'][49]['title']?>"  url='<?php echo $output['web_goodslist'][49]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][49]['litpic']?>"  width="233" height="458" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td rowspan="4">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_100.jpg" width="7" height="465" alt=""></td>
+		<td colspan="4">
+			
+			<a href="JavaScript:show_webdialog(50,'290X230');"  ><img  id="picture_50" title="<?php echo $output['web_goodslist'][50]['title']?>"  url='<?php echo $output['web_goodslist'][50]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][50]['litpic']?>"  width="234" height="226" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td rowspan="5">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_102.jpg" width="7" height="672" alt=""></td>
+		<td colspan="2">
+	
+			<a href="JavaScript:show_webdialog(53,'290X220');"  ><img  id="picture_53" title="<?php echo $output['web_goodslist'][53]['title']?>"  url='<?php echo $output['web_goodslist'][53]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][53]['litpic']?>"  width="233" height="226" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td rowspan="2">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_104.jpg" width="7" height="232" alt=""></td>
+		<td colspan="3">
+		
+				<a href="JavaScript:show_webdialog(54,'290X220');"  ><img  id="picture_54" title="<?php echo $output['web_goodslist'][54]['title']?>"  url='<?php echo $output['web_goodslist'][54]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][54]['litpic']?>"  width="234" height="226" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+			</td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="226" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="4" rowspan="3">
+	
+			<a href="JavaScript:show_webdialog(51,'290X230');"  ><img  id="picture_51" title="<?php echo $output['web_goodslist'][51]['title']?>"  url='<?php echo $output['web_goodslist'][51]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][51]['litpic']?>"  width="234" height="239" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td colspan="2">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_107.jpg" width="233" height="6" alt=""></td>
+		<td colspan="3">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_108.jpg" width="234" height="6" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="6" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="6">
+	
+			<a href="JavaScript:show_webdialog(55,'595X235');"  ><img  id="picture_55" title="<?php echo $output['web_goodslist'][55]['title']?>"  url='<?php echo $output['web_goodslist'][55]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][55]['litpic']?>"  width="474" height="226" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="226" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_110.jpg" width="233" height="7" alt=""></td>
+		<td colspan="6">
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/index_111.jpg" width="474" height="7" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="7" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="6">
+			
+			<a href="JavaScript:show_webdialog(52,'590X220');"  ><img  id="picture_52" title="<?php echo $output['web_goodslist'][52]['title']?>"  url='<?php echo $output['web_goodslist'][52]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][52]['litpic']?>"  width="474" height="207" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td colspan="6">
+	
+			<a href="JavaScript:show_webdialog(56,'595X235');"  ><img  id="picture_56" title="<?php echo $output['web_goodslist'][56]['title']?>"  url='<?php echo $output['web_goodslist'][56]['url']?>'  src="<?php echo UPLOAD_SITE_URL;?>/<?php echo $output['web_goodslist'][56]['litpic']?>"  width="474" height="207" alt=""  onerror="this.src='<?php echo ADMIN_TEMPLATES_URL;?>/images/images/default_goods_image_360.gif'" /></a>
+			</td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="207" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="233" height="1" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="7" height="1" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="1" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="1" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="231" height="1" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="1" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="7" height="1" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="1" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="232" height="1" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="7" height="1" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="1" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="232" height="1" alt=""></td>
+		<td>
+			<img src="<?php echo ADMIN_TEMPLATES_URL;?>/images/images/&#x5206;&#x9694;&#x7b26;.gif" width="1" height="1" alt=""></td>
+		<td></td>
+	</tr>
+</table>
+<?php 
+}else{
+echo $output['web_content'];
+?>
+<script>
+$(function() { 
+  for ($x=0; $x<<?php echo $output['pic_count'];?>; $x++) {
+     $w=$("#picture_"+$x).attr('width');
+     $h=$("#picture_"+$x).attr('height');    
+     $("#picture_"+$x).parent().attr("href",'JavaScript:show_webdialog('+$x+',"'+$w+'X'+$h+'");');
+     $("#picture_"+$x).parent().attr("target","");        
+  }
+}); 
+</script>
+<?php }?>
+
+<div id="upload_act_dialog" class="upload_act_dialog" style="display:none">
+
+  <table class="table tb-type2">
+    <tbody>
+      <tr class="space odd" id="prompt">
+        <th class="nobg" colspan="12"><div class="title">
+            <h5>操作提示</h5>
+            <span class="arrow"></span></div></th>
+      </tr>
+      <tr>
+        <td><ul>
+            <li>请按照操作注释要求，上传设置板块区域左侧的活动图片。</li>
+          </ul></td>
+      </tr>
+    </tbody>
+  </table>
+  <form id="upload_act_form" name="upload_act_form" enctype="multipart/form-data" method="post" action="index.php?act=web_api&op=upload_webpic" target="upload_pic">
+    <input type="hidden" name="form_submit" value="ok" />
+    <input name="web_id" value="<?php echo $_GET['web_id'] ;?>" type="hidden">   
+    <input name="var_name"  id="var_name" value="" type="hidden">
+   <table class="table tb-type2" id="upload_act_type_pic" >
+      <tbody>
+        <tr>
+          <td colspan="2" class="required">商品名称：</td>
+        </tr>
+        <tr class="noborder">
+          <td class="vatop rowform">
+          	<input class="txt" type="text" name="web_title" value="" id="web_title">
+       	  </td>
+          <td class="vatop tips"></td>
+        </tr>
+                <tr>
+          <td colspan="2" class="required">商品价格：</td>
+        </tr>
+        <tr class="noborder">
+          <td class="vatop rowform">
+          	<input class="txt" type="text" name="web_price" value="" id="web_price">
+       	  </td>
+          <td class="vatop tips"></td>
+        </tr>
+        
+           <tr>
+          <td colspan="2" class="required">市场价格：</td>
+        </tr>
+        <tr class="noborder">
+          <td class="vatop rowform">
+          	<input class="txt" type="text" name="web_priceold" value="" id="web_priceold">
+       	  </td>
+          <td class="vatop tips"></td>
+        </tr>
+        
+        <tr>
+          <td colspan="2" class="required"><label>图片跳转链接：</label></td>
+        </tr>
+        <tr class="noborder">
+          <td class="vatop rowform"><input name="web_url" type="text" class="txt" id="web_url" value="<?php echo !empty($output['code_act']['code_info']['url']) ? $output['code_act']['code_info']['url']:SHOP_SITE_URL;?>"></td>
+          <td class="vatop tips">输入点击该图片后所要跳转的链接地址。</td>
+        </tr>
+        <tr>
+          <td colspan="2" class="required"><label>图片上传：</label></td>
+        </tr>
+        <tr class="noborder">
+          <td class="vatop rowform"><span class="type-file-box">
+            <input type='text' name='textfield' id='textfield1' class='type-file-text' />
+            <input type='button' name='button' id='button1' value='' class='type-file-button' />
+            <input name="pic" id="pic" type="file" class="type-file-file" size="30">          </span></td>
+          <td class="vatop tips">建议上传大小尺寸：<span id="chicun"></span>像素GIF\JPG\PNG格式图片，超出规定范围的图片部分将被自动隐藏。</td>
+        </tr>
+      </tbody>
+    </table>
+    <a href="JavaScript:void(0);" onClick="$('#upload_act_form').submit();" class="btn"><span>提交</span></a>
+  </form>
+
+</div>
+
+<iframe style="display:none;" src="" name="upload_pic"></iframe>
+
+<script>
+
+$('#edit_store').on('click',function(){
+  //  $(this).hide();
+		
+   // disableOtherEdit('如需修改，请先保存');
+   // $(this).parent().parent().addClass('current_box');	
+   // $('#upload_act_dialog').load('index.php?act=web_config&op=web_mbupload');
+});
+
+</script>
+<script src="<?php echo RESOURCE_SITE_URL;?>/js/jquery.ajaxContent.pack.js"></script>
+<script src="<?php echo RESOURCE_SITE_URL;?>/js/jquery-ui/jquery.ui.js"></script>
+<script src="<?php echo RESOURCE_SITE_URL;?>/js/dialog/dialog.js" id="dialog_js"></script>
+<script src="<?php echo RESOURCE_SITE_URL;?>/js/common_select.js"></script>
+<script src="<?php echo RESOURCE_SITE_URL;?>/js/perfect-scrollbar.min.js"></script>
+<script src="<?php echo RESOURCE_SITE_URL;?>/js/jquery.mousewheel.js"></script>
+<script src="<?php echo RESOURCE_SITE_URL;?>/js/waypoints.js"></script>
+<script src="<?php echo RESOURCE_SITE_URL;?>/web_config/web_index.js"></script>
+</body>
+</html>
